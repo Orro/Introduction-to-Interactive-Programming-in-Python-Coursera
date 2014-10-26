@@ -1,6 +1,6 @@
 #### Introduction-to-Interactive-Programming-in-Python-Coursera
 
-Solutions to mini projects 
+Solutions to mini projects, click on the links below to play the games.
 
 Pong: http://www.codeskulptor.org/#user23_OCbPUn1K74_35.py
 
